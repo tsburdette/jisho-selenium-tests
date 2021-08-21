@@ -1,0 +1,5 @@
+pytest
+pytest-parallel
+requests
+selenium
+webdriver-manager
