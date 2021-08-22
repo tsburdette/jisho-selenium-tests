@@ -140,4 +140,5 @@ cython_debug/
 # Reports generated
 *.html
 *.css
+*.xml
 assets/
